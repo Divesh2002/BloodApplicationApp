@@ -135,6 +135,7 @@ public class BloodTestSchedulerGUI extends javax.swing.JFrame {
         hospitalizedCheckBox.setFont(new java.awt.Font("Segoe UI Black", 0, 14)); // NOI18N
         hospitalizedCheckBox.setText("CheckBox");
 
+        jTable1.setForeground(new java.awt.Color(102, 255, 102));
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null, null, null},
